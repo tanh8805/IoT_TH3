@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+CoAP_Lab/bai2/sensor_log.csv
+CoAP_Lab/bai3/light_log.txt
